@@ -1,0 +1,6 @@
+name: LogAgent
+description: Agent to collect logs for Loki
+main: io.github.awesomestcode.logagent.LogAgent
+version: 0.0.1
+api-version: 1.18
+load: STARTUP
